@@ -1,3 +1,3 @@
 function printName(){
-    return "Hello First Commit"
+    return "Hello second Commit"
 }
